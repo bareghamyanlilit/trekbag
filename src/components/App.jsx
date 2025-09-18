@@ -5,6 +5,8 @@ import Header from "./Header";
 import ItemList from "./ItemList";
 import Sidebar from "./Sidebar";
 
+// By useContext
+
 function App() {
   return (
     <>
